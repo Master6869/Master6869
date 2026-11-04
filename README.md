@@ -4,7 +4,7 @@
 
 Tlaxcala, México 🇲🇽
 
-Estudiante de **Ingeniería en Tecnologías de la Información en la Universidad Politécnica de Tlaxcala (UPTx)**, actualmente en séptimo cuatrimestre.
+Estudiante de **Ingeniería en Tecnologías de la Información en la Universidad Politécnica de Tlaxcala (UPTx)**
 
 Desarrollador enfocado en la creación de aplicaciones web, desarrollo backend, gestión de bases de datos y construcción de soluciones tecnológicas para necesidades reales.
 
