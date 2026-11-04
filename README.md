@@ -89,16 +89,6 @@ Aplicación web para reportar y localizar objetos perdidos dentro del campus uni
 
 API REST relacionada con estados y municipios de México.
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Master6869&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Master6869&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## Contacto
 
 - **Email:** crisMC_8@outlook.com
